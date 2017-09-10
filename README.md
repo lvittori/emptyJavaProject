@@ -1,1 +1,1 @@
-# emptyJavaProject
+# My Java Project
